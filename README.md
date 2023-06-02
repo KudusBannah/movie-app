@@ -21,7 +21,7 @@ To run the Movies App locally, follow these steps:
 ## Hosting
 
 this app is hosted on InfinityFree.net
-live url: [movie-app.infinityfreeapp.com](http://movie-app.infinityfreeapp.com/)
+live url: https://movieapp-gd64.onrender.com
 
 ## API Reference
 
