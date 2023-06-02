@@ -20,8 +20,8 @@ To run the Movies App locally, follow these steps:
 
 ## Hosting
 
-this app is hosted on InfinityFree.net
-live url: https://movieapp-gd64.onrender.com
+this app is hosted on render
+live url: [https://movieapp-gd64.onrender.com](https://movieapp-t912.onrender.com/)
 
 ## API Reference
 
